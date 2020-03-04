@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5634d90-de96-4616-bd73-e6679be5fe86" name="Default Changelist" comment="" />
+    <list default="true" id="b5634d90-de96-4616-bd73-e6679be5fe86" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Action.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +17,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
@@ -28,10 +30,48 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Action.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+              <folding>
+                <element signature="e#136#137#0" expanded="true" />
+                <element signature="e#163#164#0" expanded="true" />
+                <element signature="e#203#204#0" expanded="true" />
+                <element signature="e#235#236#0" expanded="true" />
+                <element signature="e#264#265#0" expanded="true" />
+                <element signature="e#289#290#0" expanded="true" />
+                <element signature="e#325#326#0" expanded="true" />
+                <element signature="e#353#354#0" expanded="true" />
+                <element signature="e#380#381#0" expanded="true" />
+                <element signature="e#406#407#0" expanded="true" />
+                <element signature="e#441#442#0" expanded="true" />
+                <element signature="e#471#472#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Actin.java" />
+        <option value="$PROJECT_DIR$/src/Action.java" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-3" />
@@ -39,7 +79,9 @@
     <option name="width" value="1220" />
     <option name="height" value="992" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -111,7 +153,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583340762312</updated>
-      <workItem from="1583340763753" duration="284000" />
+      <workItem from="1583340763753" duration="548000" />
     </task>
     <task id="LOCAL-00001" summary="first push">
       <created>1583340874418</created>
@@ -127,11 +169,18 @@
       <option name="project" value="LOCAL" />
       <updated>1583340907036</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first push">
+      <created>1583341092743</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583341092743</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="284000" />
+    <option name="totallyTimeSpent" value="548000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -179,6 +228,27 @@
           <folding>
             <element signature="e#64#65#0" expanded="true" />
             <element signature="e#114#115#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Action.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding>
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
           </folding>
         </state>
       </provider>
