@@ -3,11 +3,20 @@ public class Action {
     private String name = "";
     private String id = "";
     private int age = 10;
+    private String Address = "";
 
     public String showInfo() {
         String res = "ID：" + id + "  姓名：" + name + "  年龄：" + age;
         System.out.println(res);
         return  res;
+    }
+
+    public String getAddress() {
+        return Address;
+    }
+
+    public void setAddress(String address) {
+        Address = address;
     }
 
     public String getName() {
